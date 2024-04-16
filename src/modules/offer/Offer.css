@@ -1,0 +1,25 @@
+.offer{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    height: 500px;
+}
+.offer img{
+    height: 50%;
+}
+.offer:hover{
+    scale: 105%;
+    transition: 200ms;
+}
+.offer:not(:hover){
+    scale: 100%;
+    transition: 200ms; 
+}
+.description{
+    height: 30%;
+}

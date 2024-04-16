@@ -1,0 +1,32 @@
+.navWrapper{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 29px 0px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+}
+.linksLeft{
+    
+}
+.link{
+    padding: 20px 5px;
+    display: block;
+    height: 100%;
+    margin: 0px 30px;
+    
+}
+.navLogo{
+    margin: 0px 30px;
+    height: 60px;
+}
+@media only screen and (max-width: 600px){
+    .link{
+        padding: 20px 0px;
+        margin: 3px;
+    }
+    .navLogo{
+        margin: 5px;
+    }
+    
+}
