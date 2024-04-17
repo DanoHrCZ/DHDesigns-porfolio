@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.523169c0.chunk.css",
+    "main.js": "/static/js/main.fbc299db.chunk.js",
+    "main.js.map": "/static/js/main.fbc299db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81534a39.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81534a39.js.map",
+    "static/js/2.00966109.chunk.js": "/static/js/2.00966109.chunk.js",
+    "static/js/2.00966109.chunk.js.map": "/static/js/2.00966109.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.02ff3fcda2e3bb5e490e6ca80de92211.js": "/precache-manifest.02ff3fcda2e3bb5e490e6ca80de92211.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.523169c0.chunk.css.map": "/static/css/main.523169c0.chunk.css.map",
+    "static/js/2.00966109.chunk.js.LICENSE.txt": "/static/js/2.00966109.chunk.js.LICENSE.txt",
+    "static/media/analyze-on-screen.svg": "/static/media/analyze-on-screen.29b5403f.svg",
+    "static/media/calendar.svg": "/static/media/calendar.127ced6e.svg",
+    "static/media/cerne-logo-napis.svg": "/static/media/cerne-logo-napis.d0d3650b.svg",
+    "static/media/cerne-logo.svg": "/static/media/cerne-logo.8e356c84.svg",
+    "static/media/file-and-folder.svg": "/static/media/file-and-folder.5ae1ce7a.svg",
+    "static/media/logistics.svg": "/static/media/logistics.ca6fa6c4.svg",
+    "static/media/logo_none_background.png": "/static/media/logo_none_background.15b17242.png",
+    "static/media/mobile-testing-and-group-discussion.svg": "/static/media/mobile-testing-and-group-discussion.a08f57ef.svg",
+    "static/media/working-with-laptop.svg": "/static/media/working-with-laptop.b83711d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81534a39.js",
+    "static/js/2.00966109.chunk.js",
+    "static/css/main.523169c0.chunk.css",
+    "static/js/main.fbc299db.chunk.js"
+  ]
+}
