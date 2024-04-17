@@ -10,3 +10,7 @@
     margin: 0% auto;
     text-align: center;
 }
+.footerImgs{
+    display: flex;
+    flex-direction: row;
+}

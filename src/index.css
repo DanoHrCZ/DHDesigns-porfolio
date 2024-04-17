@@ -81,7 +81,8 @@ h1, h2, h3, h4, p {
     padding: 10px 20px;
   }
   .section div   {
-    margin: 20px;
+    text-align: center;
+    margin: 20px auto;
     width: 100%;
   }
   .section div img{
