@@ -17,7 +17,7 @@ const LandingPage = () => {
         <h1>Jmenuji se Daniel Hrečin</h1>
         <p>jsem student VOŠ a SPŠE Plzeň. Od doby co studuji jezdím na programátorské soutěže, kde většinou zpracovávám design a frontend webových aplikací.</p>
         <p>Na stránce <Link className="a" to="/portfolio">portfolio</Link> můžete najít projekty na kterých jsem se podílel.</p>
-        <p>Dále mě můžete sledovat na <a className="a" href="">instagramu</a>, nebo na mém <a className="a" href="">GitHubu</a>.</p>
+        <p>Dále mě můžete sledovat na <a className="a" href="https://www.instagram.com/danhrec_/">instagramu</a>, nebo na mém <a className="a" href="https://github.com/DanoHrCZ">GitHubu</a>.</p>
     </div>
     <div className="animated-right"><img src={ img1 } alt="" /></div>
     </div>
